@@ -1,0 +1,2 @@
+https://raw.githubusercontent.com/opencv/opencv_3rdparty/dnn_samples_face_detector_20180220_uint8/opencv_face_detector_uint8.pb
+https://github.com/opencv/opencv/tree/4.x/samples/dnn/face_detector
